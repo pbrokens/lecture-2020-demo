@@ -1,8 +1,8 @@
 This is text file 1. 
 
-Edit 1: paulb@sfu.ca
+Email: paulb@sfu.ca
 
-Edit 2: branch1 edit
+Hours: 1pm - 2pm Tues
 
 
 Some other cool text for you
